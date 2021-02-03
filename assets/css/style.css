@@ -349,8 +349,6 @@ img{
     height: .25rem;
     border: 1px solid rgba(0,0,0,.1);
     background-color: var(--first-color);
-    overflow: hidden;
-    box-shadow: 0 0 5px var(--first-color-dark);
 }   
 
 .skills__html{
