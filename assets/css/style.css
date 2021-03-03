@@ -774,4 +774,3 @@ img{
     .services__container, .works__container{
         grid-template-columns: repeat(3,1fr);
     }
-    
